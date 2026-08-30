@@ -81,13 +81,6 @@ The scikit-learn model explains about 94.6% of the variance in marks on the test
 
 As a sanity check, the trained model predicts a mark of about **26.23** for a student taking 4 courses and studying 6.5 hours.
 
-Plots generated in the notebook (not saved as separate image files — re-run the notebook or export them if you want to embed images here):
-
-![Correlation Heatmap](results/correlation_heatmap.png)
-![Feature Boxplots](results/boxplots.png)
-![Study Time vs Marks Regression Plot](results/time_study_vs_marks.png)
-![Actual vs Predicted Marks](results/actual_vs_predicted.png)
-
 ## Project Structure
 
 ```text
